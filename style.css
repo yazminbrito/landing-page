@@ -13,7 +13,7 @@ nav {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    background-color: rgb(216, 216, 186);
+    background-color: rgb(165, 125, 125)
     padding: 1rem;
 }
 
