@@ -26,16 +26,12 @@ ul{
 --bg-azul-10: #253d8b;
 --bg-white: #bb1f1f;
 --bg-electric: #438197; 
---nav_-bg: #0f1525;
+--nav_-bg: #e71bd3;
  /* Textos */
  --text-gray: #adb9c7;
  --text-white: #f3f4f6;
 }
 
-
-*{background: var(--secondary);
-    width: 100%;
-    display: flex;}
 
 *{  
     font-family: "Poppins", sans-serif;
@@ -49,15 +45,10 @@ ul{
 .header{ 
     background-color: #e37777;
     justify-content: space-around;
-    margin-right: 10px;
+    margin-right: 50px;
     padding: 30px;}
 
 .logo{ 
     height: 40%;
 }
-.navbar,
-.navbar-list{
-    display: flex;
-    align-items: center;
-    justify-content: center;
-}
+
