@@ -21,8 +21,8 @@
     width: 100%;
     display: flex;}
 
-header{ 
-    background-color: #cc4949;
+.header{ 
+    background-color: #e37777;
     width: 100%;
     display: flex;
     justify-content: space-between;
