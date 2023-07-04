@@ -9,6 +9,13 @@ nav{
     display: flex;
     justify-content: space-around;
     align-items: center;
+    background-color: #131415;
+    padding: 1rem;
+
+}
+ul a{ 
+    color: white;
+    text-decoration: none;
 }
 
 ul{ 
