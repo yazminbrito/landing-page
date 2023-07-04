@@ -4,7 +4,7 @@
     box-sizing: border-box; 
 }
 
-nav{ 
+nav { 
     display: flex;
     justify-content: space-around;
     align-items: center;
@@ -12,19 +12,19 @@ nav{
     padding: 1rem;
 
 }
-ul a{ 
+ul a { 
     color: white;
     text-decoration: none;
 }
 
-ul{ 
+ul { 
     list-style-type: none;
     display: flex;
     gap: 10px;
 }
 
 
-:root{  
+:root {  
 --background: #02050e; 
 --primary: #1e50ff;
 --secondary: #cc4949;  
